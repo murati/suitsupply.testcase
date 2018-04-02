@@ -1,0 +1,41 @@
+<h1>SuitSupply Products</h1>
+
+<div class="row">
+    <div class="col-md-8 pull-right">
+        <div class="form-horizontal">
+            <div class="col-md-4">
+                <input type="text" class="form-control col-md-2" name="filter" [(ngModel)]="filter" placeholder="Filter by name..." value="" />
+            </div>
+            <button type="button" class="btn btn-info" (click)="search()">Search</button>
+            <button type="button" class="btn btn-primary" (click)="exportToExcel()">Export to Excel</button>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-8">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Photo</th>
+                    <th>Price</th>
+                    <th>Last Updated</th>
+                    <th>Delete</th>
+                </tr>
+            </thead>
+            <tbody *ngFor="let product of products">
+                <tr>
+                    <td>{{product.id}}</td>
+                    <td>{{product.name}}</td>
+                    <td><img class="img-thumbnail" src="{{imageSources}}{{product.photo}}" /></td>
+                    <td>{{product.price | currency:"EUR":"€"}}</td>
+                    <td>{{product.lastUpdated | date:'dd.MM.yyyy'}}</td>
+                    <td><a class="btn btn-success" [routerLink]="['/edit', product.id]">Edit</a></td>
+                    <td><button type="button" class="btn btn-danger" (click)="deleteProduct(product.id)">Delete</button></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

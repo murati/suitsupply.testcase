@@ -1,0 +1,11 @@
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.UI\bin\Debug\netcoreapp2.0\SuitSupply.TestCase.UI.deps.json
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.UI\bin\Debug\netcoreapp2.0\SuitSupply.TestCase.UI.runtimeconfig.json
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.UI\bin\Debug\netcoreapp2.0\SuitSupply.TestCase.UI.runtimeconfig.dev.json
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.UI\bin\Debug\netcoreapp2.0\SuitSupply.TestCase.UI.dll
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.UI\bin\Debug\netcoreapp2.0\SuitSupply.TestCase.UI.pdb
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.UI\obj\Debug\netcoreapp2.0\SuitSupply.TestCase.UI.csprojResolveAssemblyReference.cache
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.UI\obj\Debug\netcoreapp2.0\SuitSupply.TestCase.UI.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.UI\obj\Debug\netcoreapp2.0\SuitSupply.TestCase.UI.AssemblyInfoInputs.cache
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.UI\obj\Debug\netcoreapp2.0\SuitSupply.TestCase.UI.AssemblyInfo.cs
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.UI\obj\Debug\netcoreapp2.0\SuitSupply.TestCase.UI.dll
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.UI\obj\Debug\netcoreapp2.0\SuitSupply.TestCase.UI.pdb

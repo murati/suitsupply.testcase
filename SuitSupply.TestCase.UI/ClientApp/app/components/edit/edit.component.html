@@ -1,0 +1,25 @@
+<h1>Edit Product</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form #f="ngForm" novalidate (ngSubmit)="save(f.value, f.valid)" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="txtProductName">Product Name</label>
+                <input type="text" class="form-control" name="name" [(ngModel)]="product.name" #name="ngModel" required minlength="5">
+            </div>
+            <div class="form-group">
+                <label for="txtPrice">Price</label>
+                <input type="text" class="form-control" name="price" [(ngModel)]="product.price" #price="ngModel" required min="1">
+
+            </div>
+            <div class="form-group">
+                <label for="photoContents">Product Image</label>
+                <input type="file"  class="form-control" name="photo"   accept="image/*" (change)="onFileChange($event)" #fileInput />
+            </div>
+            <button type="submit" class="btn btn-success">Save</button>
+        </form>
+    </div>
+    <div class="col-md-4">
+        <img src="{{imageSource + product.photo}}" class="img-thumbnail" alt="Alternate Text" />
+    </div>
+</div>
