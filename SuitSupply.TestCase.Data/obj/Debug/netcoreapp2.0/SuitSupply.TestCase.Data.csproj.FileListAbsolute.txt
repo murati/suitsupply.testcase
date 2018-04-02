@@ -1,0 +1,11 @@
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.Data\bin\Debug\netcoreapp2.0\SuitSupply.TestCase.Data.deps.json
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.Data\bin\Debug\netcoreapp2.0\SuitSupply.TestCase.Data.dll
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.Data\bin\Debug\netcoreapp2.0\SuitSupply.TestCase.Data.pdb
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.Data\obj\Debug\netcoreapp2.0\SuitSupply.TestCase.Data.csprojResolveAssemblyReference.cache
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.Data\obj\Debug\netcoreapp2.0\SuitSupply.TestCase.Data.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.Data\obj\Debug\netcoreapp2.0\SuitSupply.TestCase.Data.AssemblyInfoInputs.cache
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.Data\obj\Debug\netcoreapp2.0\SuitSupply.TestCase.Data.AssemblyInfo.cs
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.Data\obj\Debug\netcoreapp2.0\SuitSupply.TestCase.Data.dll
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.Data\obj\Debug\netcoreapp2.0\SuitSupply.TestCase.Data.pdb
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.Data\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.Data\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Features.xml

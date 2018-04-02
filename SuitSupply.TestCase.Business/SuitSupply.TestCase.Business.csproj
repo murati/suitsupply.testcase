@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="6.2.2" />
+    <PackageReference Include="EPPlus.Core" Version="1.5.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="2.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SuitSupply.TestCase.DataAccess\SuitSupply.TestCase.DataAccess.csproj" />
+    <ProjectReference Include="..\SuitSupply.TestCase.Data\SuitSupply.TestCase.Data.csproj" />
+  </ItemGroup>
+
+</Project>

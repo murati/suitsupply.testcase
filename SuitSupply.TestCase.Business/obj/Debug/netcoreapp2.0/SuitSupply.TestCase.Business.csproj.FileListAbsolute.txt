@@ -1,0 +1,13 @@
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.Business\bin\Debug\netcoreapp2.0\SuitSupply.TestCase.Business.deps.json
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.Business\bin\Debug\netcoreapp2.0\SuitSupply.TestCase.Business.dll
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.Business\bin\Debug\netcoreapp2.0\SuitSupply.TestCase.Business.pdb
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.Business\bin\Debug\netcoreapp2.0\SuitSupply.TestCase.Data.dll
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.Business\bin\Debug\netcoreapp2.0\SuitSupply.TestCase.DataAccess.dll
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.Business\bin\Debug\netcoreapp2.0\SuitSupply.TestCase.DataAccess.pdb
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.Business\bin\Debug\netcoreapp2.0\SuitSupply.TestCase.Data.pdb
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.Business\obj\Debug\netcoreapp2.0\SuitSupply.TestCase.Business.csprojResolveAssemblyReference.cache
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.Business\obj\Debug\netcoreapp2.0\SuitSupply.TestCase.Business.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.Business\obj\Debug\netcoreapp2.0\SuitSupply.TestCase.Business.AssemblyInfoInputs.cache
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.Business\obj\Debug\netcoreapp2.0\SuitSupply.TestCase.Business.AssemblyInfo.cs
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.Business\obj\Debug\netcoreapp2.0\SuitSupply.TestCase.Business.dll
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.Business\obj\Debug\netcoreapp2.0\SuitSupply.TestCase.Business.pdb

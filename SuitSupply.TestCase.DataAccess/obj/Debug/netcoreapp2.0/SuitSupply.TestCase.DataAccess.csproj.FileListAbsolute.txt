@@ -1,0 +1,13 @@
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.DataAccess\bin\Debug\netcoreapp2.0\SuitSupply.TestCase.DataAccess.deps.json
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.DataAccess\bin\Debug\netcoreapp2.0\SuitSupply.TestCase.DataAccess.dll
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.DataAccess\bin\Debug\netcoreapp2.0\SuitSupply.TestCase.DataAccess.pdb
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.DataAccess\bin\Debug\netcoreapp2.0\SuitSupply.TestCase.Data.dll
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.DataAccess\bin\Debug\netcoreapp2.0\SuitSupply.TestCase.Data.pdb
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.DataAccess\obj\Debug\netcoreapp2.0\SuitSupply.TestCase.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.DataAccess\obj\Debug\netcoreapp2.0\SuitSupply.TestCase.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.DataAccess\obj\Debug\netcoreapp2.0\SuitSupply.TestCase.DataAccess.AssemblyInfoInputs.cache
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.DataAccess\obj\Debug\netcoreapp2.0\SuitSupply.TestCase.DataAccess.AssemblyInfo.cs
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.DataAccess\obj\Debug\netcoreapp2.0\SuitSupply.TestCase.DataAccess.dll
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.DataAccess\obj\Debug\netcoreapp2.0\SuitSupply.TestCase.DataAccess.pdb
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.DataAccess\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\murat\source\repos\Suits\SuitSupply.TestCase.DataAccess\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Features.xml
